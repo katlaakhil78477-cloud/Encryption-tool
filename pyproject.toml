@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "caesar-salad-cipher"
+version = "3.0.0"
+requires-python = ">=3.11"
+dependencies = ["typer", "rich"]
+
+[project.scripts]
+caesar-cipher = "caesar_cipher.main:app"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
