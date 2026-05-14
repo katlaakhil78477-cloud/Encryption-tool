@@ -1,10 +1,10 @@
-# <div align="center">🚀 CipherNova</div>
+# <div align="center">🚀 Encryption-tool</div>
 
 <div align="center">
 
-### Enterprise Caesar Cipher Toolkit 🔐
+### Encryption Toolkit 🔐
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Professional+Caesar+Cipher+Toolkit;Smart+Encryption+%26+Guaranteed+Recovery;Enterprise+CLI+Security+Tool" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Professional+Encryption+Toolkit;Smart+Encryption+%26+Guaranteed+Recovery;Enterprise+CLI+Security+Tool" />
 
 <br>
 
@@ -19,7 +19,7 @@
 
 ## 🌟 Overview
 
-**CipherNova** is a professional command-line encryption toolkit built for Caesar Cipher operations with an enterprise-grade UI.
+**Encryption** is a professional command-line encryption toolkit built for Cipher operations with an enterprise-grade UI.
 
 Designed with modern CLI aesthetics, smart encryption support, and guaranteed recovery for tool-generated ciphertext.
 
@@ -97,7 +97,7 @@ Guaranteed Smart Recovery
 Clone repository:
 
 ```bash
-git clone https://github.com/jagadeeshpagoti22/CipherNova.git
+git clone 
 ```
 
 Go into project:
