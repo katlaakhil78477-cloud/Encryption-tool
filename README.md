@@ -97,13 +97,13 @@ Guaranteed Smart Recovery
 Clone repository:
 
 ```bash
-git clone 
+git clone https://github.com/katlaakhil78477-cloud/Encryption-tool.git
 ```
 
 Go into project:
 
 ```bash
-cd CipherNova
+cd Encryption-tool
 ```
 
 Install:
@@ -184,14 +184,14 @@ Blind cracking external arbitrary ciphertext is probabilistic due to cipher ambi
 
 ## 👨‍💻 Author
 
-**Jagadeesh Pagoti**
+**Katla Aahil**
 
-GitHub: https://github.com/jagadeeshpagoti22
+GitHub: https://github.com/katlaakhil78477-cloud
 
 ---
 
 <div align="center">
 
-### ⭐ If you like CipherNova, star the repository ⭐
+### ⭐ If you like Encryption tool, star the repository ⭐
 
 </div>
